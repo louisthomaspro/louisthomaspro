@@ -1,32 +1,10 @@
 ### Hi there 👋
 
-<img align="center" src="./animation.svg" alt="Animation" />
-
-<p align='right'>
 <a href="https://www.linkedin.com/in/louis-thomas/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
-
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=jideguru&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
--->
-
-
-<!--
-<p align='center'>
-  <a href="https://stackoverflow.com/users/10835183/jideguru">
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/10835183?style=for-the-badge" />
 </a>&nbsp;&nbsp;
-</p>
--->
+<a href="https://www.malt.fr/profile/louisthomaspro">
+  <img src="https://img.shields.io/badge/malt-%23fc5757.svg?&style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTg4IiBoZWlnaHQ9IjE4OCIgdmlld0JveD0iMCAwIDE4OCAxODgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xNjAuNTE4IDI3LjczMDVDMTQ2LjQxOCAxMy42MzA1IDEzMS4zNTYgMjIuNzU2NSAxMjEuOTMgMzIuMTgyNUw3Ny40MTA0IDc2LjcwNTVMMzIuODg1NCAxMjEuMjNDMjMuNDU5NCAxMzAuNjU1IDEzLjU5MzQgMTQ0Ljk3NiAyOC40MzM0IDE1OS44MTRDNDMuMjczNCAxNzQuNjU3IDU3LjU5NDMgMTY0Ljc4OSA2Ny4wMTgzIDE1NS4zNjNMMTExLjU0MSAxMTAuODRMMTU2LjA2NCA2Ni4zMTc1QzE2NS40OTEgNTYuODkwNSAxNzQuNjE2IDQxLjgyODUgMTYwLjUxOCAyNy43MzA1WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTc1LjQ0NSAyNC4wODMzTDk0LjMgNDIuOTM3M0wxMTMuNDkyIDIzLjc0NTNDMTE0Ljc5NSAyMi40MzkzIDExNi4xMTggMjEuMjI3MyAxMTcuNDQ5IDIwLjA4NDNDMTE1LjQzOSA5Ljk0NDM0IDEwOS42NTMgMC43NzczNDQgOTQuMjkxIDAuNzc3MzQ0Qzc4LjkgMC43NzczNDQgNzMuMTIxIDkuOTgwMzQgNzEuMTIzIDIwLjE0MjNDNzIuNTU5IDIxLjM4NTMgNzMuOTk0IDIyLjYzMTMgNzUuNDQ1IDI0LjA4MzNaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTEzLjQ4MiAxNjQuMTM2TDk0LjMwMTYgMTQ0Ljk1NUw3NS40NTY2IDE2My43OThDNzQuMDI1NiAxNjUuMjMgNzIuNjAxNiAxNjYuNTM4IDcxLjE4MzYgMTY3Ljc2N0M3My4zNDQ2IDE3OC4xMDQgNzkuNDYwNiAxODcuNTcyIDk0LjI5MzYgMTg3LjU3MkMxMDkuMTY2IDE4Ny41NzIgMTE1LjI3NCAxNzguMDUzIDExNy40MjEgMTY3LjY4M0MxMTYuMTAyIDE2Ni41NDggMTE0Ljc4MSAxNjUuNDM1IDExMy40ODIgMTY0LjEzNloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik02Ny40NDkgNjkuNzlIMzEuMDk5QzE3Ljc3IDY5Ljc5IDAuNjY2MDE2IDczLjk4OCAwLjY2NjAxNiA5My45MjZDMC42NjYwMTYgMTA4LjgwMyAxMC4xODggMTE0LjkxMiAyMC41NiAxMTcuMDU4QzIxLjc4OCAxMTUuNjQxIDY3LjQ0OSA2OS43OSA2Ny40NDkgNjkuNzlaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTY4LjEwMSA3MC43NTg4QzE2Ni45NSA3Mi4wOTY4IDEyMS4xOTQgMTE4LjA2NCAxMjEuMTk0IDExOC4wNjRIMTU3LjAyOEMxNzAuMzU3IDExOC4wNjQgMTg3LjQ2MSAxMTQuOTE1IDE4Ny40NjEgOTMuOTI3OEMxODcuNDYxIDc4LjUzODggMTc4LjI2MSA3Mi43NTY4IDE2OC4xMDEgNzAuNzU4OFoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik03OS4zNTkyIDU3Ljg1NzlMODUuODUzMiA1MS4zNjM5TDY3LjAxMDIgMzIuNTE4OUM1Ny41ODMyIDIzLjA5MzkgNDMuMjY0MiAxMy4yMjY5IDI4LjQyNDIgMjguMDY2OUMxNy41NDIyIDM4Ljk0ODkgMTkuOTU5MiA0OS41Mzk5IDI1LjczMTIgNTguMTM3OUMyNy40ODkyIDU4LjAwNjkgNzkuMzU5MiA1Ny44NTc5IDc5LjM1OTIgNTcuODU3OVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMDkuMjM3IDEyOS45OTZMMTAyLjcyNiAxMzYuNTA3TDEyMS45MiAxNTUuNjk5QzEzMS4zNDYgMTY1LjEyNiAxNDYuNDA4IDE3NC4yNSAxNjAuNTA2IDE2MC4xNTJDMTcxLjAyNiAxNDkuNjMxIDE2OC42MTIgMTM4LjU4MSAxNjIuNzk2IDEyOS43MjlDMTYwLjkyNCAxMjkuODY0IDEwOS4yMzcgMTI5Ljk5NiAxMDkuMjM3IDEyOS45OTZaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K" />
+</a>
 
-
-<!--
-</p>
-<p align='center'>
-<a href="https://stackoverflow.com/users/10835183/jideguru"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
-</p>
--->
+<img align="center" src="./animation.svg" alt="Animation" />
