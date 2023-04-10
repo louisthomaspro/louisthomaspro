@@ -254,7 +254,7 @@
 }
 
 .active path {
-  animation: draw 3s cubic-bezier(0.1, 0.7, 1.0, 0.1) forwards;
+  animation: draw 5s cubic-bezier(0.1, 0.7, 1.0, 0.1) forwards;
   animation-play-state: running;
 }
 
