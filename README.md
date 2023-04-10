@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabbie&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-
-<img src="./test.svg">
+<img align="center" src="<img src="./test.svg">" alt="Animation" />
 
 <p align='right'>
 <a href="https://www.linkedin.com/in/louis-thomas/">
