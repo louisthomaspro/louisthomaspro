@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="<img src="./test.svg">" alt="Animation" />
+<img align="center" src="./test.svg" alt="Animation" />
 
 <p align='right'>
 <a href="https://www.linkedin.com/in/louis-thomas/">
