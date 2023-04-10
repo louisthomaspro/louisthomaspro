@@ -1,16 +1,34 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabbie&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
+
+<img src="./test.svg">
+
+<p align='right'>
+<a href="https://www.linkedin.com/in/louis-thomas/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+
+
 <!--
-**louisthomaspro/louisthomaspro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=jideguru&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+<p align='center'>
+  <a href="https://stackoverflow.com/users/10835183/jideguru">
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/10835183?style=for-the-badge" />
+</a>&nbsp;&nbsp;
+</p>
+-->
+
+
+<!--
+</p>
+<p align='center'>
+<a href="https://stackoverflow.com/users/10835183/jideguru"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
+</p>
 -->
